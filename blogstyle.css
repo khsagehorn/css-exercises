@@ -1,0 +1,56 @@
+h1 {
+  text-align: center;
+  border-bottom-style: solid;
+}
+
+li {
+  list-style-type: none;
+}
+
+body {
+  font-family: "Lucida Grande";
+  background-image: url("pink_rice.png")
+}
+
+nav {
+  text-align: center;
+  background-color: #999999;
+  padding: 15px;
+
+
+}
+
+aside {
+  
+  position: relative;
+  float: left;
+  width: 20%;
+ 
+}
+
+main {
+  
+  position: relative;
+  float: left;
+  width: 80%;
+
+}
+
+section {
+  clear: both;
+}
+
+figure {
+  float: left;
+}
+
+figcaption {
+  font-size: 75%;
+}
+
+article {
+  
+  float: left;
+  width: 60%;
+ 
+}
